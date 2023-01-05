@@ -16,7 +16,7 @@ export class SmartTableService extends SmartTableData {
     firstName: 'Jacob',
     lastName: 'Thornton',
     username: '@fat',
-    email: 'fat@yandex.ru',
+    email: 'fat@icloud.com',
     age: '45',
   }, {
     id: 3,
@@ -37,7 +37,7 @@ export class SmartTableService extends SmartTableData {
     firstName: 'Jack',
     lastName: 'Sparrow',
     username: '@jack',
-    email: 'jack@yandex.ru',
+    email: 'jack@icloud.com',
     age: '30',
   }, {
     id: 6,
@@ -51,7 +51,7 @@ export class SmartTableService extends SmartTableData {
     firstName: 'Barbara',
     lastName: 'Black',
     username: '@barbara',
-    email: 'barbara@yandex.ru',
+    email: 'barbara@icloud.com',
     age: '43',
   }, {
     id: 8,
@@ -72,7 +72,7 @@ export class SmartTableService extends SmartTableData {
     firstName: 'Karen',
     lastName: 'Sevan',
     username: '@karen',
-    email: 'karen@yandex.ru',
+    email: 'karen@icloud.com',
     age: '33',
   }, {
     id: 11,
@@ -86,7 +86,7 @@ export class SmartTableService extends SmartTableData {
     firstName: 'Jacob',
     lastName: 'Thornton',
     username: '@jacob',
-    email: 'jacob@yandex.ru',
+    email: 'jacob@icloud.com',
     age: '48',
   }, {
     id: 13,
@@ -107,7 +107,7 @@ export class SmartTableService extends SmartTableData {
     firstName: 'Krikor',
     lastName: 'Bedros',
     username: '@krikor',
-    email: 'krikor@yandex.ru',
+    email: 'krikor@icloud.com',
     age: '32',
   }, {
     'id': 16,
